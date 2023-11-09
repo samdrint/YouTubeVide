@@ -4,7 +4,6 @@ from customtkinter import CTkEntry
 from pytube import YouTube
 import customtkinter
 
-
 def startDownload(option):
     try:
         ytLink = link.get()
